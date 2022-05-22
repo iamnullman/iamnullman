@@ -104,7 +104,7 @@ React.useEffect(() => {
                     <Typography variant="h5" align="center" color="text.primary" gutterBottom data-aos="fade-up" data-aos-anchor-placement="top-center">
                         {t("pages.index.repos.title")}
                     </Typography>
-                    <div className="w-full md:w-10/12 mx-auto grid grid-cols-12 max-w-5xl gap-4">
+                    <div className="w-full md:w-10/1 mx-auto grid grid-cols-12 md:grid-cols-1 max-w-5xl gap-4">
                         {repos.map((data, index) => (
                             <>
                                 {!data ? null : (
