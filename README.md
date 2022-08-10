@@ -1,6 +1,6 @@
 
 ### Hi there! I'm nullman👋
-[![Twitter](https://img.shields.io/twitter/follow/bennullman?label=Followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/iamnullman)
+[![Twitter](https://img.shields.io/twitter/follow/iamnullman?label=Followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/iamnullman)
 [![Github](https://img.shields.io/github/followers/iamnullman?logo=github&style=flat&label=Followers)](https://github.com/iamnullman?tab=followers) 
 
 [![Discord Status](https://lanyard.cnrad.dev/api/716930725877907466)](https://discord.com/channels/@me/716930725877907466)
