@@ -7,7 +7,7 @@
 
 ## ✉️ Contact Me
 
-- Mail : iam.nullman@yandex.com
+- Mail : contact@nullman.fun
 - Discord : [iamnullman#0001](https://discord.com/channels/@me/716930725877907466)
 - Twitter : [iamnullman](https://twitter.com/@iamnullman)
 - Instagram : [iamnullman](https://instagram.com/iamnullman)
