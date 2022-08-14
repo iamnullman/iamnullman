@@ -11,7 +11,7 @@
         </div>
         <div class="bg-gray-900 rounded-lg font-[quicksand] p-4 duration-200 hover:scale-[1.05]">
           <p class="text-2xl">Writing</p>  
-          <p class="text-sm mt-1">Sosyal medyada tartışmalara katılmayı ve makaleler yazmayı severim. Konuşacak bir şey varsa bana söyleyebilirsin :D</p>
+          <p class="text-sm mt-1">I like to participate in discussions and write articles on social media. if you have something to talk about you can tell me :D</p>
          </div>
     </div>
 </div>
