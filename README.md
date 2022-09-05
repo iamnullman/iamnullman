@@ -29,6 +29,3 @@
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnullman&layout=compact&theme=dracula&langs_count=10&locale=en)
 ![Graph](https://activity-graph.herokuapp.com/graph?username=iamnullman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-## 🏆 GitHub Rewards
-
-[![Rewards](https://github-profile-trophy.vercel.app/?username=iamnullman&theme=dracula&column=7&margin-w=10&no-frame=true)](https://github.com/gamerboytr)
