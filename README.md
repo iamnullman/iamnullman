@@ -1,7 +1,8 @@
 
 ### Hi there! I'm nullman👋
 [![Twitter](https://img.shields.io/twitter/follow/iamnullman?label=Followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/iamnullman)
-[![Github](https://img.shields.io/github/followers/iamnullman?logo=github&style=flat&label=Followers)](https://github.com/iamnullman?tab=followers) 
+![Github](https://img.shields.io/github/followers/iamnullman?logo=github&style=flat&label=followers)
+![Followers](https://komarev.com/ghpvc/?username=iamnullman&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Discord Status](https://lanyard.cnrad.dev/api/716930725877907466)](https://discord.com/channels/@me/716930725877907466)
 
@@ -24,9 +25,7 @@
 
 ## &#x1f4c8; Status
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=iamnullman&theme=dracula&show_icons=true&locale=en)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamnullman&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnullman&layout=compact&theme=dracula&langs_count=10&locale=en)
+![Graph](https://activity-graph.herokuapp.com/graph?username=iamnullman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
-## 🏆 GitHub Rewards
-
-[![Rewards](https://github-profile-trophy.vercel.app/?username=iamnullman&theme=dracula&column=7&margin-w=10&no-frame=true)](https://github.com/gamerboytr)
