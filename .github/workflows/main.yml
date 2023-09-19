@@ -1,10 +1,25 @@
-- name: generate-snake-game-from-github-contribution-grid
-  id: generate-snake
-  uses: ./svg-only
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    outputs: |
-      dist/github-contribution-grid-snake.svg
-      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Your Workflow Name
+
+on:
+  push:
+    branches:
+      - main  # Burada tetiklenmesini istediğiniz dalı belirtin, örneğin "main" veya "master" olabilir.
+
+jobs:
+  your-job-name:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Game
+      id: generate-snake
+      uses: ./svg-only
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
