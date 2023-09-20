@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=iamnullman&icon=0&color=12)](https://visitcount.itsvg.in)
 
-Hi there! I'm nullman👋<br>
+For 7 years, he is a young software developer who produces projects on the web.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,3 @@ Hi there! I'm nullman👋<br>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iamnullman) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
