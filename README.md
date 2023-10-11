@@ -31,14 +31,14 @@ I'm Enes (iamnullman), a young developer who has been working with the web for 7
 
 <h3>📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=iamnullman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamnullman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamnullman&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnullman&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">💰 You can support me by Donating</h3>
 
 <p>  
-  <a href="https://buymeacoffee.com/yagizdo" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
+  <a href="https://buymeacoffee.com/iamnullman" target="_blank"><img src="https://res.cloudinary.com/selimyal/image/upload/v1641238333/bmc-button_ast3kz.png" width="200" /></a>
 </p>
 
 
