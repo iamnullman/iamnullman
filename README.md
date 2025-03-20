@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&duration=6000&color=9214F7&random=true&width=435&lines=Developer;Designer;Translator)](https://git.io/typing-svg)
 
-I'm Enes (iamnullman), a young developer who has been working with the web for 7 years. I continue to learn and create projects. I hope you like my GitHub profile ☺️. If you'd like to collaborate or get in touch, feel free to reach out through the social media links below.
+I'm Enes (iamnullman), a young developer who has been working with the web for 9 years. I continue to learn and create projects. I hope you like my GitHub profile ☺️. If you'd like to collaborate or get in touch, feel free to reach out through the social media links below.
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pS4YCmywQ7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamnullman) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/iamnullman) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/iamnullman) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLUKKTSsUUc24OEvfeuWU_Q) 
 
